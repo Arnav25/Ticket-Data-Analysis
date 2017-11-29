@@ -1,0 +1,135 @@
+Route_name,Source,Destination,No_of_Stops_between_Source_to_Dest_including_Src_and_Dest,Total_number_of_Bus_Stops,Percentage_of_Bus_Stops_in_between,Maximum_number_of_Tickets_Sold,Total_Tickets_Sold,Pecentage_of_Tickets_Sold
+297-MDN,DBPRS Railway Station Doddaballapura,DBP Doddaballapura Old Bus Stand,2,12,16.666668,1,1,100.0
+ELCW-KRM TTMCDN,KGATE Kudlu Gate,BMH4 Bommanahalli (Towards St Johns),2,5,40.0,1,1,100.0
+242-XDN,CDC Chandrappa Circle,BYLL1 Byalalu,2,17,11.764706,2,2,100.0
+287-RUP,BDPLYT1 Bhadrappa Layout (Towards TATA Nagara),TATANR Tata Nagara,2,10,20.0,1,1,100.0
+362-JUP,KPGT6 Koppa Gate,JGN0 Jigani Bus Stand,3,23,13.043478,1,1,100.0
+BEL-KLNDN,BELCR2 BEL Circle (Towards Hebbala),jnon Jn of Nagawara,3,4,75.0,1,1,100.0
+CJP-ELCWUP,ELC356cw Electronic City (Towards Wipro Gate),ELCWG ELC Wipro Gate,2,21,9.523809,1,1,100.0
+242VDN,PRDPL Puradapalya,MGDTLG Magadi Road TollGate ,5,6,83.33333,1,1,100.0
+CAPG-MRHUP,DDNKD Dodda Nekkundi (Towards Marathahalli Bridge),BTHB Marathahalli Bridge Flyover,2,3,66.66667,9,9,100.0
+KGR-HKLOUP,mnsk1 Muneshwara Nagara Kerekodi,KRSHL H Krishnappa Layout,2,5,40.0,1,1,100.0
+KMT-TVK 227JUP,PTYNP Puttaiahnapalya,TVRKR1 Tavarekere,2,12,16.666668,5,5,100.0
+HSK-CPR 399AUP,AVLHIHSK Avalahalli Electronic City,HUSK Huskur (Towards Chikkanagamangala Gate),2,15,13.333334,1,1,100.0
+V-333TUP,VYDHS White Field TTMC (Vydehi Hospital),ITL ITPL,3,20,15.000001,2,2,100.0
+310-CDN,HLS Halasuru,SBS1 Shivajinagara Bus Station,3,5,60.000004,5,5,100.0
+323-DNUP,DND Vappachalli Gate,DND9 Daadinayakana Doddy,2,19,10.526316,2,2,100.0
+ATB-HSR BCUP,ROPAG Rupena Agrahara,HSRA2 SI Apartment HSR Layout,2,5,40.0,1,1,100.0
+SBS-SGHDN,RMDC Richmond Circle,JBS4th Jayanagara 4th Block,3,4,75.0,1,1,100.0
+CLOC-BSKUP,KTGP Kathriguppe,BSKTTMC1 Banashankari TTMC,3,4,75.0,1,1,100.0
+JGH-D-35UP,JGH Karekal Cross,TVK Tavarekere,2,3,66.66667,18,18,100.0
+310-CUP,HLS1 Halasuru,ISH Isolation Hospital,2,3,66.66667,1,1,100.0
+317-KDN,RCHMDCR Richmond Circle,KRM4 KR Market,2,13,15.384616,1,1,100.0
+KIAS-5UP,SDHG1 Sadahalli Gate,KIAS Kempegowda International Airport,3,13,23.076923,4,4,100.0
+DVHOB-NLRUP,RDH Reddyhalli,NLU Nallur,2,5,40.0,1,1,100.0
+60UP,SJTR Sujatha Talkies,KBS123 Kempegowda Bus Station,2,3,66.66667,1,1,100.0
+CKB-VSD-KMT 271FDN,TELEE Telephone Exchange AGO ,KRM4 KR Market,3,12,25.0,1,1,100.0
+D10-BGLR-DVHUP,CSNG Chikka Sanne Gate,DVHOBS2 Devanahalli Old Bus Stand,2,14,14.285715,4,4,100.0
+313-CDN,BGH Benniganahalli,DEPO6 Depot-06 Gate,3,4,75.0,1,1,100.0
+BNP-ANKUP,KOPG Koppa Gate,JGN0 Jigani Bus Stand,2,3,66.66667,1,1,100.0
+401-CDN,BNGUSTY Bengaluru University Gate (Towards ADM Block),BUAMB Bengaluru University Administrative Block,2,3,66.66667,1,1,100.0
+KIAS-6UP,SDHG1 Sadahalli Gate,KIAS Kempegowda International Airport,2,22,9.090909,1,1,100.0
+HSRBC-ELCDN,HSRBDA BDA Complex HSR Layout,BMH2 Bommanahalli (Towards Electronic City),2,3,66.66667,5,5,100.0
+RMG-RVC-DTTUP,CHRP Chamarajapet (Towards TR Mill),RVC1 Raghavendra Colony,2,5,40.0,1,1,100.0
+80 MLO -KBSDN,SJTR Sujatha Talkies,kcle Kodays Circle,3,4,75.0,3,3,100.0
+TRP-KBSUP,JNHR Jn of Hosur Road,KBS123 Kempegowda Bus Station,5,14,35.714287,1,1,100.0
+AIT-KHDS-SBSUP,MGDTLG Magadi Road TollGate ,kcle Kodays Circle,2,3,66.66667,1,1,100.0
+ORRCAP-ELCWUP,KDG Kudlu Gate,KNP3 Konappana Agarhara,2,6,33.333336,1,1,100.0
+210-KAUP,CKHSAM Chikkallasandra Aralimara (Chikkalasandra),CKBS Chikkallasandra,2,10,20.0,1,1,100.0
+SPHS-HBLBUP,MRP Munireddy Palya J C Nagara ,RTNPS2 Police Station RT Nagara ,2,3,66.66667,6,6,100.0
+230-B SBSUP,BSVN1 Basavanagara Kengeri,ANCPL Anchepalya,2,10,20.0,1,1,100.0
+210PUP,CKHSAM Chikkallasandra Aralimara (Chikkalasandra),CKBS1 Chikkallasandra,2,10,20.0,4,4,100.0
+213-DAUP,BRMCS Bannigiri Cross,BRML Byramangala,2,20,10.0,2,2,100.0
+PPLO-CKAUP,CKSDRC Chikkallasandra Aralimara (Towards Gowdanapalya),PDNGRA Padmanabha Nagara,2,3,66.66667,1,1,100.0
+ELCW-ORRCASDN,AGRA1 Jn of Agara,CLA Bellanduru,3,4,75.0,1,1,100.0
+PSS-GDPUP,MF Marison Factory,MKL1 Makali,3,4,75.0,1,1,100.0
+HBL-GGP-SMH-CLOUP,MLGLC Malagala Cross,CLO Chandra Layout,3,4,75.0,1,1,100.0
+353UP,SURN Surya Nagara,IGGLR Iggluru,2,20,10.0,1,1,100.0
+BDD-WDL 226MUP,MNHG Manchanayakanahalli Gate,WNDRLP1 Wonderla Amusement Park,2,3,66.66667,2,2,100.0
+D38-AECSUP,KDLV Kudlu Gate,KDLPTY Kudlu Panchayath Office,2,5,40.0,1,1,100.0
+KIAS-4UP,SDHG1 Sadahalli Gate,KIAS Kempegowda International Airport,2,13,15.384616,2,2,100.0
+V-211ALDN,CRPN Corporation (Towards Cauvery Bhavan),KBS123 Kempegowda Bus Station,2,9,22.222223,1,1,100.0
+316-UDN,RCHMDCR Richmond Circle,KRM4 KR Market,4,17,23.529411,3,3,100.0
+163-AUP,KKMP Kalyana Mantapa Koramangala,KRMDTMC Koramangala TTMC,2,3,66.66667,1,1,100.0
+390DN,PNHC1 Pethanahalli Cross,HKEB Hoskote KEB Circle (Towards Hoskote),2,14,14.285715,1,1,100.0
+KRP-TNF-CHLSUP,GDLH Geddalahalli (Towards Byrathi Bande),KOTNR Kothanuru ,2,6,33.333336,1,1,100.0
+JHC-VNSUP,BELCRL BEL Circle (Towards Mathikere),DVNRA Devinagara,2,4,50.0,3,3,100.0
+NBDA-KHB-SBSUP,MGDTLG Magadi Road TollGate ,MHC Maharanis College,3,4,75.0,1,1,100.0
+D10-KRPRSUP,KSTRR Kasthuri Nagara Ring Road,KRPRLY Railway Station KR Puram,3,4,75.0,2,2,100.0
+D35-NMGUP,KRKLP Karekalpalya,NMG0 Nelamangala Bus Station,3,4,75.0,24,24,100.0
+V-505ADN,TPS2 Thippasandra,BEML BEML Gate (Towards CV Raman Nagara),2,4,50.0,1,1,100.0
+V-335EVUP,VYDHS White Field TTMC (Vydehi Hospital),ITL ITPL,3,20,15.000001,9,9,100.0
+KRPGH-BMT10DN,KRPRST KR Puram Railway Station,RMNADM Ramamurthy Nagara Alada Mara,2,3,66.66667,2,2,100.0
+168-AUP,SDPY2 Sudduguntepalya,JBMN Jai Bheema Nagara,3,6,50.0,1,1,100.0
+KBS-BRHUP,MDLCR Medahalli Cross,HNDH1 Handenahalli,2,19,10.526316,1,1,100.0
+AGR-KMTDN,SJJNRC Sajjan Rao Circle,KMT1 KR Market (Kalasipalya),2,9,22.222223,1,1,100.0
+VDP-PSSDN,GNG1 Gangamma Circle (Towards KG Halli Bridge),KGHB Kammagondanahalli Bridge,2,3,66.66667,1,1,100.0
+358UP,KAMPR Kambalipura,MYSSDR Mayasandra,2,20,10.0,1,1,100.0
+GDWC-BMTCUP,RMDC Richmond Circle,SNTTMC Shanthinagara TTMC,2,3,66.66667,1,1,100.0
+D06-DMRUP,KFCIPDR Police Station Indiranagara,DPOHLI Dhoopanahalli,2,3,66.66667,8,8,100.0
+SJH-SRN UP,BLPR1 Billapura,ATBCR1 Attibele Circle (Towards Attibele Bus Stand),4,11,36.363636,8,8,100.0
+RTNP-HBL-CJPUP,DVNG1 Devinagara Cross,BELC11 BEL Circle (Towards Gokula),2,3,66.66667,1,1,100.0
+BMT25-SNRUP,RGGD Ragigudda Temple,BSKTTMC1 Banashankari TTMC,2,3,66.66667,1,1,100.0
+STJONH-D38DN,AVLHIHSK Avalahalli Electronic City,HUSK Huskur (Towards Chikkanagamangala Gate),2,11,18.181818,1,1,100.0
+356CW INFOPLDN,BMH4 Bommanahalli (Towards St Johns),HSRA2 SI Apartment HSR Layout,3,5,60.000004,2,2,100.0
+SKT-YBS401MUP,RMCY1 RMC Yard (Yashawanthapura New Railway Station),YTTMC Yashawanthapura TTMC,2,5,40.0,1,1,100.0
+JP6-SGHDN,JNGR5 5th Block Jayanagara (Towards Jayanagara),SJNDHOP Sanjay Gandhi Hospital,2,3,66.66667,1,1,100.0
+171-FUP,MHC Maharanis College,SNTTMC Shanthinagara TTMC,2,3,66.66667,1,1,100.0
+D-34 GATE-BVHUP,BSPRG Basavanapura Gate,BLVRDHLI Bilavaradahalli,3,4,75.0,1,1,100.0
+KBS-VSD-NGVUP,MHC Maharanis College,WGPC Wilson Garden Police Station,2,3,66.66667,1,1,100.0
+210-ZUP,CKLSC Chikkallasandra Aralimara (Towards Uttarahalli),MHSMD Mahesh Medicals,2,11,18.181818,1,1,100.0
+KBP-D21GDN,IAHF Indo American Hybrid Farm,D21GT Depot-21 Gate,2,3,66.66667,1,1,100.0
+234-FDN,MGR1 MG Statue,SBS1 Shivajinagara Bus Station,2,9,22.222223,2,2,100.0
+KBS-ORRCAQUP,DMLUR Domlur (Towards HAL),AECSL-1 AECS Layout Cross,5,6,83.33333,1,1,100.0
+SRP-KBSUP,SVNDS2 Shivananda Store,KBS123 Kempegowda Bus Station,3,11,27.272728,1,1,100.0
+BRN-D21GDN,BRN1 Bangarappa Nagara,BEMLCX BEML Complex,2,3,66.66667,6,6,100.0
+BGTC-D34 GateDN,BNRCL Bannerughatta Circle (Towards Kalkere),BSNG Basavanapura Gate,2,3,66.66667,1,1,100.0
+290-MDN,INDEXP1 Indian Express,KBS123 Kempegowda Bus Station,4,9,44.444447,37,37,100.0
+DPJ-KLOUP,mnsk1 Muneshwara Nagara Kerekodi,HKRLY H Krishnappa Layout,2,3,66.66667,1,1,100.0
+D35-KCHUP,KCHG1 Kachohalli Gate,KCH Kachohalli,2,3,66.66667,5,5,100.0
+V-500WUP,VYDHS White Field TTMC (Vydehi Hospital),ITL ITPL,3,16,18.75,2,2,100.0
+SRN-BKCDN,BTLCLG BTL College,ELC Electronic City (Towards Bommanahalli),2,3,66.66667,1,1,100.0
+SJHBS-PNNUP,INDNH Indira Nursing Home,PDMN Padmanabha Nagara,3,5,60.000004,1,1,100.0
+KRM-HBPSUP,KRMB1 1st Block Koramangala,KDG Kudlu Gate,2,3,66.66667,1,1,100.0
+DML-HSRBDAUP,MTBG Military Bridge,MDWMK Madivala,3,4,75.0,1,1,100.0
+210-HADN,BKNDRC Indian Express,SBS1 Shivajinagara Bus Station,2,18,11.111112,9,9,100.0
+D06-DBSUP,KFCIPDR Police Station Indiranagara,DPOHLI Dhoopanahalli,2,3,66.66667,3,3,100.0
+290-KAUP,ABCLLG Arebic College,NGW Nagavara,2,8,25.0,2,2,100.0
+YSTF-BEMLGUP,KSTRR Kasthuri Nagara Ring Road,BNGB Benniganahalli Bridge,3,9,33.333336,1,1,100.0
+SBS-RYLUP,COLPK Coles Park (Towards Doddy),D10G2 Depot-10 Gate,4,5,80.0,1,1,100.0
+RVTH-D35DN,JPT0 Janapriya Township,KDBGC Kadabagere Cross,2,3,66.66667,2,2,100.0
+406UP,BSVH3 Basavanahalli,NMG0 Nelamangala Bus Station,2,27,7.4074073,5,5,100.0
+BTM-VSDDN,ASHKPLR Ashoka Pillar,MNRVC Minerva Circle,2,6,33.333336,1,1,100.0
+399-DDN,YMRI Yamare,DMSCR1 Dommasandra Circle (Towards Muttanallur Cross),3,4,75.0,1,1,100.0
+GJR-MPHUP,GNGR1 Gunjuru (Towards Varthuru Kodi),VRTGTC Varthuru Govt College,2,4,50.0,1,1,100.0
+MRH-PTHUP,MTDB Marathahalli Bridge,DND12 Dodda Nekkundi (Towards Hebbala),2,3,66.66667,1,1,100.0
+YHKOT-ACSHDN,MRTH Maruthi Nagara,NGW1 Nagavara,3,4,75.0,1,1,100.0
+NRG-HLSDN,RSNDN Neelasandra Rose Garden,ASTWN Austin Town,2,3,66.66667,1,1,100.0
+V-201RUP,BAGMTECH Bagmane Tech Park,CVRMG CV Raman Nagara (Towards Kaggadasapura),4,21,19.047619,2,2,100.0
+KIAS-10UP,SDHG1 Sadahalli Gate,KIAS Kempegowda International Airport,2,12,16.666668,3,3,100.0
+ELCW-MRHBDN,ROPAG Rupena Agrahara,D-25 Depot-25 Gate (Towards Hebbala),2,3,66.66667,1,1,100.0
+KGR-UTH-BSK-KDGUP,PTAGC Pattandur Agrahara Gate,KDG0 Kadugodi Bus Station,3,25,12.0,2,2,100.0
+YST-RMG-KHCDN,NES1 NES Office,MKC1 Mekhri Circle,3,4,75.0,1,1,100.0
+GNE-BSKDN,KTGP Kathriguppe,INDNH Indira Nursing Home,2,3,66.66667,1,1,100.0
+BSK-KML2SUP,BSKTTMC1 Banashankari TTMC,DYNDSC Dayananda Sagar College,2,3,66.66667,7,7,100.0
+356-CW-FLYDN,RPNAGR Rupena Agrahara,HSRA2 SI Apartment HSR Layout,2,5,40.0,1,1,100.0
+YPR-PPLODN,RLIPBG Reliance Petrol Bunk Goraguntepalya,RJKSD1 Rajkumar Punya Bhoomi,2,3,66.66667,1,1,100.0
+PPLO-KMT-KBSUP,CRPN Corporation (Towards Cauvery Bhavan),KBS123 Kempegowda Bus Station,2,8,25.0,7,7,100.0
+333-BUP,DMLUR Domlur (Towards HAL),MPH NAL Manipal Hospital ,2,4,50.0,1,1,100.0
+255-AC VNC-VDHUP,ARSKT Arishinakunte (Towards Jalahalli Cross),DSNP Dasanapura (Towards Jalahalli Cross),2,4,50.0,1,1,100.0
+SNR-CVRNDN,TPS2 Thippasandra,BEML BEML Gate (Towards CV Raman Nagara),3,6,50.0,1,1,100.0
+YBS-NGWDN,MTKR Mattikere,DVNRA Devinagara,2,4,50.0,1,1,100.0
+226-VCUP,HGDGR7 Heggadagere Cross (Towards Sugganahalli),MGP0 Manchegowdanapalya,7,21,33.333336,1,1,100.0
+V-600CDN,ROPAG Rupena Agrahara,RGGD Ragigudda Temple,3,5,60.000004,1,1,100.0
+PTH-VPPUP,CHKHLY Chikka Bettahalli,VDPRA Vidyaranyapura,2,4,50.0,1,1,100.0
+231-KUP,AVRGRC1 Avaragere Cross,BDD Bidadi,3,17,17.647058,1,1,100.0
+CAPGR-DMLUP,KFCIPDR Police Station Indiranagara,DPNH Dhoopanahalli,2,6,33.333336,1,1,100.0
+V-335TUP,VYDHS White Field TTMC (Vydehi Hospital),ITL ITPL,3,17,17.647058,5,5,100.0
+HPM-ITPLUP,HPM CS-HP SofTowardsare Mahadevapura,BBZ Big Bazzar  ITPL,2,3,66.66667,1,1,100.0
+KMT-CSRDN,BHVI Bhovi Colony,CHOD1 Choodasandra,2,11,18.181818,1,1,100.0
+KMT-CSBSUP,CKHSAM Chikkallasandra Aralimara (Chikkalasandra),CKBS1 Chikkallasandra,2,7,28.57143,3,3,100.0
+ELC-BGTPSUP,BEGLI Begihalli,MNTPACRO Mantapa Cross,2,8,25.0,2,2,100.0
+291-BUP,Corpo Corporation (Towards KR Market),KRM4 KR Market,2,3,66.66667,1,1,100.0
+241-CUP,YKDGHC Yale Kodigehalli Colony,YKDH Yale Kodigehalli,2,11,18.181818,1,1,100.0
+KGR-RV-CLOUP,BNGUSTY Bengaluru University Gate (Towards ADM Block),BUAMB Bengaluru University Administrative Block,2,3,66.66667,3,3,100.0
+BHR-IAF-PTHDN,VTHL Venkatala,YHKSC Yelahanka Santhe Circle,2,5,40.0,2,2,100.0
